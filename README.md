@@ -4,3 +4,6 @@
 --
 下载main文件，打开其中代码在安装图形组件的c语言编程软件中编译运行
 -
+图片效果如下
+--
+![](https://github.com/zj66jie/C-graphics/raw/master/tu.jpg)  
